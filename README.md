@@ -9,6 +9,6 @@ The plan is staged with 4 phases :
 
 Phase 1 - Athena 雅典娜     Intellectual game to find the one thing that takes you through the day   
 Phase 2 - Poseidon 波塞冬   A gentle wave game to touch you like a summer breeze   
-Phase 3 - Hermes 赫耳墨斯   A messager to connect you with the others creatures in this universe
+Phase 3 - Hermes 赫耳墨斯   A messager to connect you with the others creatures in this universe  
 Phase 4 - Hades 哈迪斯      Dark Intelligence to get you the guilty pleasure of getting the secretes  
 Phase 5 - Zeus  宙斯        All encompass 
