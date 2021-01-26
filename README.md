@@ -1,6 +1,6 @@
 # SparkPlan
 
-Since the dawn of civilization, human race has searched endlessly for fulfillment of mind and body. This project aims to solve these foundamental problems and offer a bit fun to this ultimately boring life. 
+Since the dawn of civilization, human race has searched endlessly for fulfillment of mind and body. This project aims to solve these foundamental problems and offer a bit fun to this ultimately boring life  
 自人类文明起源，人类一直在不停得寻找精神和身体的意义和满足感。这个火种🔥计划是我们去尝试解决这些最核心问题和给这个无聊的生命找寻一丝快乐。
 
 We play what we build, we take pride on what we are. At end of the day, we die with legacy to the human race.
